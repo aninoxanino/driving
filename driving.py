@@ -13,5 +13,6 @@ elif nationality == 'America' or nationality == 'USA' or nationality == 'US':
 		print('You can drink but cannot smoke')
 	else:
 		print('You cannot smoke and drink')
-
+else:
+	print('You can only input Taiwan or USA')
 
